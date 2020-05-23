@@ -1,2 +1,2 @@
 # MultiLabelClassification
-MultiLabel CLassification with BagOfWords, TFIDF implementation
+MultiLabel Classification with BagOfWords, TFIDF implementation
